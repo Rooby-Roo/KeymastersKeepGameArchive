@@ -19,6 +19,8 @@ class TheBazaarArchipelagoOptions:
 
 
 class TheBazaarGame(Game):
+    # Initial implementation by Serpent.AI, built from text request from RoobyRoo.
+    
     name = "The Bazaar"
     platform = KeymastersKeepGamePlatforms.PC
 

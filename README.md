@@ -1,2 +1,3 @@
-# KeymastersKeepGameArchive
-Archive of the games that were initially bundled with Keymaster's Keep
+# KeymastersKeepGames (RoobyRoo's version)
+Collection of the Keymaster's Keep games implemented partially or wholly by yours truly. 
+Please see the setup instructions for Keymaster's Keep for details on use.

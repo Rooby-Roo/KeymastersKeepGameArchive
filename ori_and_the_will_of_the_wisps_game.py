@@ -16,6 +16,8 @@ class OriAndTheWillOfTheWispsArchipelagoOptions:
 
 
 class OriAndTheWillOfTheWispsGame(Game):
+    # Initial implementation by Serpent.AI, built from text request from RoobyRoo.
+
     name = "Ori and the Will of the Wisps"
     platform = KeymastersKeepGamePlatforms.PC
 

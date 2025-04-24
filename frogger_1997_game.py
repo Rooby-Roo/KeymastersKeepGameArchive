@@ -16,6 +16,8 @@ class Frogger1997ArchipelagoOptions:
 
 
 class Frogger1997Game(Game):
+    # Initial implementation by Serpent.AI, built from text request from RoobyRoo.
+
     name = "Frogger (1997)"
     platform = KeymastersKeepGamePlatforms.PS1
 

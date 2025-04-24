@@ -19,6 +19,7 @@ class RealmOfTheMadGodArchipelagoOptions:
 
 
 class RealmOfTheMadGodGame(Game):
+    # Initial implementation by Serpent.AI, built from text request from RoobyRoo.
     name = "Realm of the Mad God"
     platform = KeymastersKeepGamePlatforms.PC
 
